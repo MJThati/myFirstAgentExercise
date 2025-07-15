@@ -1,0 +1,2 @@
+# myFirstAgentExercise
+Learning Agentic AI
